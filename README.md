@@ -21,7 +21,7 @@ Je suis un **Ingénieur IA & Big Data** passionné par l'innovation technologiqu
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 - **Computer Vision**: YOLOv8, Traitement d'images
-- **NLP**: LangChain, RAG, SpaCy, Heygen
+- **NLP**: LangChain, RAG, SpaCy
 - **Deep Learning & Machine Learning**
 
 ### Développement Full-Stack
@@ -60,10 +60,6 @@ Migration et modernisation d'applications d'entreprise vers des architectures cl
 **Diplôme d'Ingénieur** - JUNIA ISEN, Lille (2020-2025)
 - Spécialisation en Intelligence Artificielle et Big Data
 
-## 📜 Certifications en Cours
-
-- 📊 **Microsoft PL-300**: Power BI Data Analyst
-- 🤖 **Microsoft AI-102**: Conception de Solutions IA
 
 ## 🌟 Projets Personnels
 
@@ -75,12 +71,14 @@ Migration et modernisation d'applications d'entreprise vers des architectures cl
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leroy-Guillaume&show_icons=true&theme=radical&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leroy-Guillaume&layout=compact&theme=radical&count_private=true)
+<!-- Total commits (public + privés) -->
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Leroy-Guillaume&show_icons=true&theme=radical&count_private=true)
+
+<!-- Langages utilisés (public + privés) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leroy-Guillaume&layout=compact&theme=radical&count_private=true)
+
   
 </div>
-
 
 ## 🤝 Contact
 
