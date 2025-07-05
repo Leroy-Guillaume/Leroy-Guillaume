@@ -2,7 +2,6 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.portfolio-leroy-guillaume.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-leroy-isen/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Guillaume.Leroy0208@gmail.com)
   
@@ -72,23 +71,13 @@ Migration et modernisation d'applications d'entreprise vers des architectures cl
 - **📄 ResumeAI**: Plateforme SaaS pour l'optimisation de CV
 - **📚 Plateforme d'Apprentissage**: Outil éducatif pour les mathématiques et le français
 
-## 📈 Statistiques GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leroy-Guillaume&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leroy-Guillaume&layout=compact&theme=radical)
-  
-</div>
 
 ## 🤝 Contact
 
 Je suis toujours ouvert aux opportunités de collaboration et aux discussions sur l'IA et les technologies innovantes !
 
 📧 **Email**: Guillaume.Leroy0208@gmail.com  
-💼 **LinkedIn**: [Guillaume Leroy](https://www.linkedin.com/in/guillaume-leroy-isen/)  
-🌐 **Portfolio**: [www.portfolio-leroy-guillaume.com](https://www.portfolio-leroy-guillaume.com/)
+💼 **LinkedIn**: [Guillaume Leroy](https://www.linkedin.com/in/guillaume-leroy-isen/)
 
 ---
 
