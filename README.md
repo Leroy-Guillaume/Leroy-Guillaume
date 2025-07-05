@@ -71,16 +71,9 @@ Migration et modernisation d'applications d'entreprise vers des architectures cl
 
 <div align="center">
   
-<!-- OPTION 1: Utilise github-readme-stats-git-masterrstaa-rickstaa.vercel.app qui supporte mieux count_private -->
-![Mes Stats GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leroy-Guillaume&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leroy-Guillaume&layout=compact&theme=radical&count_private=true)
-
-<!-- OPTION 2: Si ça ne fonctionne pas, décommente ceci et commente au-dessus
 ![Mes Stats GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Leroy-Guillaume&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leroy-Guillaume&layout=compact&theme=radical&count_private=true)
--->
 
 </div>
 
