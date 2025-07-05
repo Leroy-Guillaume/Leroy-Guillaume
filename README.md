@@ -73,8 +73,6 @@ Migration et modernisation d'applications d'entreprise vers des architectures cl
   
 ![Mes Stats GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Leroy-Guillaume&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leroy-Guillaume&layout=compact&theme=radical&count_private=true)
-
 </div>
 
 ## 🤝 Contact
