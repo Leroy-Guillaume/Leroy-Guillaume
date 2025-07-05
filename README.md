@@ -71,6 +71,16 @@ Migration et modernisation d'applications d'entreprise vers des architectures cl
 - **📄 ResumeAI**: Plateforme SaaS pour l'optimisation de CV
 - **📚 Plateforme d'Apprentissage**: Outil éducatif pour les mathématiques et le français
 
+## 📈 Statistiques GitHub
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leroy-Guillaume&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leroy-Guillaume&layout=compact&theme=radical&count_private=true)
+  
+</div>
+
 
 ## 🤝 Contact
 
