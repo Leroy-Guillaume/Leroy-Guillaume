@@ -44,7 +44,7 @@ Je suis un **Ingénieur IA & Big Data** passionné par l'innovation technologiqu
 ## 🎯 Projets Phares
 
 ### 🤖 Avatar Conversationnel IA
-Développement d'un système d'avatar intelligent utilisant des technologies de pointe en NLP et Computer Vision
+Développement d'un système d'avatar intelligent avec HeyGen, Gemini et technologies NLP avancées
 
 ### 📊 Système de Classification de Texte
 Implémentation d'algorithmes de ML pour la classification automatique de documents
@@ -75,7 +75,7 @@ Migration et modernisation d'applications d'entreprise vers des architectures cl
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leroy-Guillaume&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leroy-Guillaume&show_icons=true&theme=radical&count_private=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leroy-Guillaume&layout=compact&theme=radical&count_private=true)
   
