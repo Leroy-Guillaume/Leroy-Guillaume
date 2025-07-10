@@ -40,23 +40,23 @@ Je suis un **Ingénieur IA & Big Data** passionné par l'innovation technologiqu
 
 ## 💼 Expérience Professionnelle
 
-### 🏢 Parcours International
+###  Parcours International
 - 🇨🇭 **Suisse**: Stage Ingénieur IA chez ILEM SA
 - 🇫🇷 **France**: Projets d'innovation en IA
 - 🇧🇪 **Belgique**: Expériences en développement technologique
 
-## 🎯 Projets Phares
+##  Projets Phares
 
-### 🤖 Avatar Conversationnel IA
+###  Avatar Conversationnel IA
 Développement d'un système d'avatar intelligent avec HeyGen, Gemini et technologies NLP avancées
 
-### 📊 Système de Classification de Texte
+###  Système de Classification de Texte
 Implémentation d'algorithmes de ML pour la classification automatique de documents
 
-### 👁️ Optimisation Computer Vision
+###  Optimisation Computer Vision
 Amélioration des performances de modèles de détection d'objets avec YOLOv8
 
-### 🔄 Modernisation de Systèmes Legacy
+###  Modernisation de Systèmes Legacy
 Migration et modernisation d'applications d'entreprise vers des architectures cloud-native
 
 ## 🎓 Formation
@@ -65,13 +65,13 @@ Migration et modernisation d'applications d'entreprise vers des architectures cl
 - Spécialisation en Intelligence Artificielle et Big Data
 
 
-## 🌟 Projets Personnels
+##  Projets Personnels
 
-- **🧠 Chatbot RAG Intelligent**: Système de questions-réponses basé sur l'IA
-- **📄 ResumeAI**: Plateforme SaaS pour l'optimisation de CV
-- **📚 Plateforme d'Apprentissage**: Outil éducatif pour les mathématiques et le français
+- ** Chatbot RAG Intelligent**: Système de questions-réponses basé sur l'IA
+- ** ResumeAI**: Plateforme SaaS pour l'optimisation de CV (Bientôt en public sur github)
+- ** Plateforme d'Apprentissage**: Outil éducatif pour les mathématiques et le français
 
-## 📈 Statistiques GitHub
+##  Statistiques GitHub
 
 <div align="center">
   
@@ -79,7 +79,7 @@ Migration et modernisation d'applications d'entreprise vers des architectures cl
 
 </div>
 
-## 🤝 Contact
+##  Contact
 
 Je suis toujours ouvert aux opportunités de collaboration et aux discussions sur l'IA et les technologies innovantes !
 
